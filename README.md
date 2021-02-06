@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 
 I am a seasoned software developer with over 15 years of experience specialising Unity Engine. I take pride in the quality of code I craft, and believe in continuous learning practises in the field of software and in general. I have have a track record of undertaking full development life-cycle software projects.
 
