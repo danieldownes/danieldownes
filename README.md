@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 I am a seasoned software developer with over 15 years of experience specialising Unity Engine. I take pride in the quality of code I craft, and believe in continuous learning practises in the field of software and in general. I have have a track record of undertaking full development life-cycle software projects.
 
 I have developed immersive experiences relating to interactive training, simulation and games on PC and mobile platforms. I have active experience working on projects for iOS, Android, HoloLens 1 & 2, VR, AR, Desktop, using additional tech and techniques such DI, SOLID, TDD, PDT, Clean Architecture, as developed in C#, C/C++, WPF, UWP, Java, AWS, Azure and LAMP Stack.
 
-### Carrer 💼
+## Carrer 💼
 
 My carrer has so far applied interactive and training solutions in the fields of:
 
@@ -14,18 +14,18 @@ My carrer has so far applied interactive and training solutions in the fields of
  - Education and Training
  - AAA Gaming
 
-### Education 🎓
+## Education 🎓
 
-## BSc (Honours) Computing Visualisation - Sheffield Hallam University 	2002 – 2006
+### BSc (Honours) Computing Visualisation - Sheffield Hallam University
 
  - First Class
  - Honours Award
  - Hallam Award
  - Top-5% scoring student in year
  
-## B-TEC in Computing - Distinction
+### B-TEC in Computing - Distinction
 
-### 🏆 Awards & Achievements ✨
+## 🏆 Awards & Achievements ✨
 
  - Process Communication Model® (PCM) Training
  - KUKA Robotics Automation Programming Certification
@@ -35,7 +35,7 @@ My carrer has so far applied interactive and training solutions in the fields of
  - Hallam Award - Team Leader Roles
  - TEFL Diploma (Teaching English as a Foreign Language)
 
-### Websites 🌐
+## Websites 🌐
 
 http://www.danieldownes.co.uk/
 http://www.immerselabs.com/
