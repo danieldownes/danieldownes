@@ -4,7 +4,7 @@ I am a seasoned software developer with over 15 years of experience specialising
 
 I have developed immersive experiences relating to interactive training, simulation and games on PC and mobile platforms. I have active experience working on projects for iOS, Android, HoloLens 1 & 2, VR, AR, Desktop, using additional tech and techniques such DI, SOLID, TDD, PDT, Clean Architecture, as developed in C#, C/C++, WPF, UWP, Java, AWS, Azure and LAMP Stack.
 
-## Carrer 💼
+## 💼 Carrer
 
 My carrer has so far applied interactive and training solutions in the fields of:
 
@@ -14,7 +14,7 @@ My carrer has so far applied interactive and training solutions in the fields of
  - Education and Training
  - AAA Gaming
 
-## Education 🎓
+## 🎓 Education
 
 ### BSc (Honours) Computing Visualisation - Sheffield Hallam University
 
@@ -35,10 +35,12 @@ My carrer has so far applied interactive and training solutions in the fields of
  - Hallam Award - Team Leader Roles
  - TEFL Diploma (Teaching English as a Foreign Language)
 
-## Websites 🌐
+## 🌐 Websites
 
 http://www.danieldownes.co.uk/
+
 http://www.immerselabs.com/
+
 http://www.doubledaregames.co.uk/
 
 <!--
