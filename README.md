@@ -4,6 +4,7 @@ I am a seasoned software developer with over 15 years of experience specialising
 
 I have developed immersive experiences relating to interactive training, simulation and games on PC and mobile platforms. I have active experience working on projects for iOS, Android, HoloLens 1 & 2, VR, AR, Desktop, using additional tech and techniques such DI, SOLID, TDD, PDT, Clean Architecture, as developed in C#, C/C++, WPF, UWP, Java, AWS, Azure and LAMP Stack.
 
+
 ## 💼 Carrer
 
 My carrer has so far applied interactive and training solutions in the fields of:
@@ -13,6 +14,7 @@ My carrer has so far applied interactive and training solutions in the fields of
  - Medical and Surgery
  - Education and Training
  - AAA Gaming
+
 
 ## 🎓 Education
 
@@ -25,6 +27,7 @@ My carrer has so far applied interactive and training solutions in the fields of
  
 ### B-TEC in Computing - Distinction
 
+
 ## 🏆 Awards & Achievements ✨
 
  - Process Communication Model® (PCM) Training
@@ -35,6 +38,7 @@ My carrer has so far applied interactive and training solutions in the fields of
  - Hallam Award - Team Leader Roles
  - TEFL Diploma (Teaching English as a Foreign Language)
 
+
 ## 🌐 Websites
 
 http://www.danieldownes.co.uk/
@@ -42,6 +46,16 @@ http://www.danieldownes.co.uk/
 http://www.immerselabs.com/
 
 http://www.doubledaregames.co.uk/
+
+
+## ⚡ Other Links
+
+https://gist.github.com/danieldownes
+
+https://twitter.com/danieldownes
+
+https://www.linkedin.com/in/danieldownes/
+
 
 <!--
 **danieldownes/danieldownes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
