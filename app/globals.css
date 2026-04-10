@@ -13,3 +13,12 @@ html.dark {
 .borderBlack {
   @apply border border-black/10;
 }
+
+.hero-grid {
+  background-image: radial-gradient(circle, #000 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+html.dark .hero-grid {
+  background-image: radial-gradient(circle, #fff 1px, transparent 1px);
+}

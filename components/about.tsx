@@ -24,7 +24,7 @@ export default function About() {
         <span className="font-medium">defence, MedTech, nuclear, energy</span>, and digital media industries.{" "}
         Extensive expertise with Unity, Unreal, and Godot engines, specialising in{" "}
         <span className="font-medium">VR/XR/Mixed Reality, simulation, robotic simulation, and physics simulation</span>.<br /><br />
-        I take <span className="font-medium">full ownership of projects</span> — from initial brief through architecture, team alignment, and delivery.{" "}
+        I take <span className="font-medium">full ownership of projects</span>, from initial brief through architecture, team alignment, and delivery.{" "}
         Adept at leading teams through full software lifecycles using{" "}
         <span className="font-medium">Agile, ISO standards (BS EN 62304), SOLID, TDD, and Clean Architecture</span> principles.{" "}
         Proven ability to mentor team members, write maintainable code, and deliver high-quality solutions.
