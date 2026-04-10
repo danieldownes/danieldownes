@@ -62,9 +62,9 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Daniel Downes</span><br />
-        <span className="font-bold">Tech Consultant and Unity Expert</span> with<br />
-        <span className="font-bold">15+ years</span> of experience <br />
-        <span className="font-italics">XR, 3D interaction, simulation, UX, <br />games and apps.</span>
+        <span className="font-bold">Interactive Software Lead</span> with<br />
+        <span className="font-bold">20 years</span> of experience in<br />
+        <span className="font-italics">project ownership, simulation, training and XR.</span>
       </motion.h1>
 
       <motion.div

@@ -19,13 +19,22 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        Seasoned Software Developer / Tech Lead.<br />
-        15+ years of experience across{" "}
-        <span className="font-medium">MedTech, defence, energy</span>, and digital media industries.{" "}
-        Extensive expertise with Unity, Unreal, and Godot engines.<br /><br />
-        Adept at leading teams through full software lifecycles using<br />
-        <span className="font-medium">Agile, ISO standards, SOLID, TDD, and Clean Architecture</span> principles.<br /><br />
-        Proven ability to solve complex problems, mentor team members, and deliver high-quality solutions.
+        Seasoned Interactive Software Lead with{" "}
+        <span className="font-medium">20 years of experience</span> across{" "}
+        <span className="font-medium">defence, MedTech, nuclear, energy</span>, and digital media industries.{" "}
+        Extensive expertise with Unity, Unreal, and Godot engines, specialising in{" "}
+        <span className="font-medium">VR/XR/Mixed Reality, simulation, robotic simulation, and physics simulation</span>.<br /><br />
+        I take <span className="font-medium">full ownership of projects</span> — from initial brief through architecture, team alignment, and delivery.{" "}
+        Adept at leading teams through full software lifecycles using{" "}
+        <span className="font-medium">Agile, ISO standards (BS EN 62304), SOLID, TDD, and Clean Architecture</span> principles.{" "}
+        Proven ability to mentor team members, write maintainable code, and deliver high-quality solutions.
+      </p>
+
+      <p className="mb-3">
+        Career highlights include work with{" "}
+        <span className="font-medium">BAE Systems, National Nuclear Laboratory, Deloitte, the NHS</span>, and the{" "}
+        <span className="font-medium">Ministry of Defence</span>.{" "}
+        Currently based in <span className="font-medium">Tokyo, Japan</span>.
       </p>
 
       <p>

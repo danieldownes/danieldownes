@@ -10,13 +10,13 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Daniel Downes | Tech Consultant & Unity Expert",
+  title: "Daniel Downes | Interactive Software Lead",
   description:
-    "Daniel Downes - Tech Consultant and Unity Expert with 15+ years of experience in XR, 3D interaction, simulation, and games.",
+    "Daniel Downes - Interactive Software Lead with 20 years of experience in project ownership, simulation, training and XR.",
   openGraph: {
-    title: "Daniel Downes | Tech Consultant & Unity Expert",
+    title: "Daniel Downes | Interactive Software Lead",
     description:
-      "Tech Consultant and Unity Expert with 15+ years of experience in XR, 3D interaction, simulation, and games.",
+      "Interactive Software Lead with 20 years of experience in project ownership, simulation, training and XR.",
     type: "website",
   },
 };
