@@ -36,7 +36,7 @@ export const projectsData = [
   {
     title: "Riders Up - Racing Game",
     description:
-      "Worked with the technical team to improve code-quality by mindfully introducing code standards and code review processes. Assisted proving networking and UX issues.",
+      "Worked with the technical team to improve code-quality by mindfully introducing code standards and code review processes. Assisted in resolving networking and UX issues.",
     tags: ["Netcode", "Agile", "HDRP"],
     imageUrl: ridersUp1Img,
   },
@@ -51,7 +51,7 @@ export const projectsData = [
     title: "XR Exercise Games",
     description:
       "Developing games and physical exercise to facilitate mobility for people with Parkinson's Disease.",
-    tags: ["HoloLens 2", "Magic Leap 2", "Tech Lead", "CI/CD", "Pyphon"],
+    tags: ["HoloLens 2", "Magic Leap 2", "Tech Lead", "CI/CD", "Python"],
     imageUrl: strolllImg,
   },
   {
@@ -76,15 +76,15 @@ export const experiencesData = [
     title: "First Unity Project",
     location: "Beijing, China",
     description:
-      "Working in a team of 20, we created Facebooks first Unity based game, UberStrike.",
+      "Working in a team of 20, we created Facebook's first Unity based game, UberStrike.",
     icon: React.createElement(LuGraduationCap),
     date: "2009",
   },
   {
     title: "Flash Development",
-    location: "123",
+    location: "",
     description:
-      "Proefesseional work practise with Flash and AS3 Scripting for a marketing company.",
+      "Professional work practice with Flash and AS3 Scripting for a marketing company.",
     icon: React.createElement(CgWorkAlt),
     date: "2006 - 2007",
   },

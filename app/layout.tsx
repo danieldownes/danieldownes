@@ -10,8 +10,15 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Daniel Downes",
-  description: "Daniel Downes - Technical Lead, Unity Expert",
+  title: "Daniel Downes | Tech Consultant & Unity Expert",
+  description:
+    "Daniel Downes - Tech Consultant and Unity Expert with 15+ years of experience in XR, 3D interaction, simulation, and games.",
+  openGraph: {
+    title: "Daniel Downes | Tech Consultant & Unity Expert",
+    description:
+      "Tech Consultant and Unity Expert with 15+ years of experience in XR, 3D interaction, simulation, and games.",
+    type: "website",
+  },
 };
 
 export default function RootLayout({

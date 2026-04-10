@@ -4,9 +4,8 @@ import Image from "next/image";
 import React from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { BsArrowRight, BsLinkedin } from "react-icons/bs";
-import { HiDownload } from "react-icons/hi";
-import { FaEnvelope, FaGithub, FaGithubAlt, FaGithubSquare, FaMailBulk, FaWpforms } from "react-icons/fa";
+import { BsLinkedin } from "react-icons/bs";
+import { FaEnvelope, FaGithubAlt } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 
@@ -103,15 +102,16 @@ export default function Intro() {
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-lg focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
           href="https://linkedin.com/in/danieldownes/"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <BsLinkedin />Connect{" "}
         </Link>
 
         <a
-          className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-lg focus:scale-[1] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-
+          className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-lg focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
           href="https://github.com/danieldownes/"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <FaGithubAlt />Tech Profile{" "}
         </a>
